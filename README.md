@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software engineer with an emphasis on frontend web development. I'm skilled with Angular, JavaScript & Bootstrap.
+
 <!--
 **mchaitanya/mchaitanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
